@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#menu {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.navbar-brand:hover {
+  transform: rotate(2deg);
+  color: rgb(243, 201, 13);
+}
+
+.nav-item:hover {
+  transform: rotate(3deg);
+}
